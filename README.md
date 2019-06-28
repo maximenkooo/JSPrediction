@@ -1,7 +1,7 @@
 JSPridiction
 ========================
 This case contains the implementation of a model for binary classification 
-customer requests without personal Information. Some label information are unknown.
+fraud without personal Information. Some label information are unknown.
 
 ### Install
 
